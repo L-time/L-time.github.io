@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://l-time.github.io/sitemap.xml
+Sitemap: https://l-time.github.io/baidusitemap.xml
