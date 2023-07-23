@@ -159,6 +159,13 @@
   </url>
   
   <url>
+    <loc>https://l-time.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2023-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://l-time.github.io/tags/Hexo/</loc>
     <lastmod>2023-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,13 +207,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://l-time.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2023-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -224,14 +224,14 @@
   </url>
   
   <url>
-    <loc>https://l-time.github.io/categories/Gopher%E7%9A%84%E6%9D%82%E8%B0%88/</loc>
+    <loc>https://l-time.github.io/categories/%E8%90%8C%E6%96%B0%E7%9A%84ICPC%E4%B9%8B%E6%97%85/</loc>
     <lastmod>2023-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://l-time.github.io/categories/%E8%90%8C%E6%96%B0%E7%9A%84ICPC%E4%B9%8B%E6%97%85/</loc>
+    <loc>https://l-time.github.io/categories/Gopher%E7%9A%84%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2023-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
