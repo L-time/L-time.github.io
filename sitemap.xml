@@ -137,6 +137,27 @@
 
   
   <url>
+    <loc>https://l-time.github.io/tags/github/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://l-time.github.io/tags/ci-cd/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://l-time.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://l-time.github.io/tags/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -172,35 +193,7 @@
   </url>
   
   <url>
-    <loc>https://l-time.github.io/tags/CF/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://l-time.github.io/tags/%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://l-time.github.io/tags/Go/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://l-time.github.io/tags/OAuth/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://l-time.github.io/tags/%E5%AE%9E%E8%B7%B5/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -215,27 +208,6 @@
   
   <url>
     <loc>https://l-time.github.io/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://l-time.github.io/tags/github/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://l-time.github.io/tags/ci-cd/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://l-time.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -263,6 +235,20 @@
   </url>
   
   <url>
+    <loc>https://l-time.github.io/tags/CF/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://l-time.github.io/tags/%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://l-time.github.io/tags/%E5%8D%8F%E7%A8%8B/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -276,7 +262,28 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://l-time.github.io/tags/OAuth/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://l-time.github.io/tags/%E5%AE%9E%E8%B7%B5/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://l-time.github.io/categories/%E8%90%8C%E6%96%B0%E7%9A%84CI-CD%E4%B9%8B%E8%B7%AF/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://l-time.github.io/categories/Web%E7%8B%97%E7%9A%84%E6%AD%A6%E5%99%A8%E5%B7%A5%E5%85%B7/</loc>
@@ -293,13 +300,6 @@
   </url>
   
   <url>
-    <loc>https://l-time.github.io/categories/Go%E7%9A%84%E5%AE%9E%E8%B7%B5%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://l-time.github.io/categories/Gopher%E7%9A%84%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -307,7 +307,7 @@
   </url>
   
   <url>
-    <loc>https://l-time.github.io/categories/%E8%90%8C%E6%96%B0%E7%9A%84CI-CD%E4%B9%8B%E8%B7%AF/</loc>
+    <loc>https://l-time.github.io/categories/Go%E7%9A%84%E5%AE%9E%E8%B7%B5%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
